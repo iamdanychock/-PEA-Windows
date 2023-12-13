@@ -1,0 +1,34 @@
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\bin\Debug\[Godot] Windows Test Ver4.deps.json
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\bin\Debug\[Godot] Windows Test Ver4.runtimeconfig.json
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\bin\Debug\[Godot] Windows Test Ver4.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\bin\Debug\[Godot] Windows Test Ver4.pdb
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.csproj.AssemblyReference.cache
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.AssemblyInfoInputs.cache
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.AssemblyInfo.cs
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.csproj.CoreCompileInputs.cache
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.csproj.CopyComplete
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\refint\[Godot] Windows Test Ver4.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.pdb
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.genruntimeconfig.cache
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4\.godot\mono\temp\obj\Debug\ref\[Godot] Windows Test Ver4.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\bin\Debug\[Godot] Windows Test Ver4.deps.json
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\bin\Debug\[Godot] Windows Test Ver4.runtimeconfig.json
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\bin\Debug\[Godot] Windows Test Ver4.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\bin\Debug\[Godot] Windows Test Ver4.pdb
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.csproj.AssemblyReference.cache
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.AssemblyInfoInputs.cache
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.AssemblyInfo.cs
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.csproj.CoreCompileInputs.cache
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.csproj.CopyComplete
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\refint\[Godot] Windows Test Ver4.dll
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.pdb
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\[Godot] Windows Test Ver4.genruntimeconfig.cache
+C:\Users\dosor\Documents\01_ISART_2023_2024\PEA\[Godot] Windows Test Ver4 - Copie\.godot\mono\temp\obj\Debug\ref\[Godot] Windows Test Ver4.dll

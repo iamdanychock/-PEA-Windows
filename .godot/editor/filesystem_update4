@@ -1,0 +1,11 @@
+res://Scenes/Main.tscn
+res://Scripts/Main2.cs
+res://Scenes/Player.tscn
+res://Scenes/PlayerBullet.tscn
+res://Scenes/window.tscn
+res://Scripts/Bullet.cs
+res://Scripts/Detector.cs
+res://Scripts/ExternWindow.cs
+res://Scripts/Main.cs
+res://Scripts/Player.cs
+res://Scripts/PlayerBullet.cs

@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://bn0pb25j32oxf"]
+
+[ext_resource type="Script" path="res://Scripts/ExternWindow.cs" id="1_3a2dl"]
+
+[node name="Window" type="Window"]
+gui_embed_subwindows = true
+size = Vector2i(1000, 10000)
+script = ExtResource("1_3a2dl")
+
+[node name="Camera2D" type="Camera2D" parent="."]

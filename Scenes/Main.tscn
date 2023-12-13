@@ -1,0 +1,37 @@
+[gd_scene load_steps=5 format=3 uid="uid://bhjowyoxf2ogj"]
+
+[ext_resource type="Script" path="res://Scripts/Main2.cs" id="1_ctwp3"]
+[ext_resource type="PackedScene" uid="uid://crjply5ffviqk" path="res://Scenes/Player.tscn" id="2_fnvxp"]
+[ext_resource type="PackedScene" uid="uid://bn0pb25j32oxf" path="res://Scenes/window.tscn" id="3_pjnlu"]
+[ext_resource type="Script" path="res://Scripts/Detector.cs" id="4_wiadx"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_ctwp3")
+_PackedPlayer = ExtResource("2_fnvxp")
+_PackedWin = ExtResource("3_pjnlu")
+
+[node name="MainCamera" type="Camera2D" parent="."]
+
+[node name="ShotContainer" type="Node" parent="."]
+
+[node name="Detectors" type="Node2D" parent="."]
+
+[node name="DetectorUp" type="Area2D" parent="Detectors"]
+script = ExtResource("4_wiadx")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Detectors/DetectorUp"]
+
+[node name="DetectorDown" type="Area2D" parent="Detectors"]
+script = ExtResource("4_wiadx")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Detectors/DetectorDown"]
+
+[node name="DetectorLeft" type="Area2D" parent="Detectors"]
+script = ExtResource("4_wiadx")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Detectors/DetectorLeft"]
+
+[node name="DetectorRight" type="Area2D" parent="Detectors"]
+script = ExtResource("4_wiadx")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Detectors/DetectorRight"]

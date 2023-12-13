@@ -1,0 +1,11 @@
+CharacterBody2D
+Camera2D
+Window
+Node2D
+Node
+SubViewport
+Panel
+ColorRect
+CollisionShape2D
+Area2D
+Sprite2D
